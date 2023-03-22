@@ -8,6 +8,7 @@ String izvele="";
 do{
 do{
 System.out.println("Sveiki");
+System.out.println("Labdien");
 System.out.println("Ievadiet garumu centimetros");
 garums = scan.nextDouble();
 if(garums<=0){
